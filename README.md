@@ -1,9 +1,10 @@
-JSON to HTML Table
+Elven JSON to HTML Table
 ==================
 
-This is a simple script to convert JSON data to standard HTML table in the simplest and fastest way.
+This is Charlie's fork of a simple script to convert JSON data to standard HTML table in the simplest and fastest way.
 
-##How to use
+## How to use
+
 There's only one function in this library and accept four parameter that only the first one is required.
     
 ```javascript
@@ -12,7 +13,7 @@ There's only one function in this library and accept four parameter that only th
     
 Simply call `ConvertJsonToTable` method and fill the `parsedJson` parameter.  
 
-##Example
+## Example
 
 This is an example of using this library:  
 
@@ -61,11 +62,17 @@ Code sample explaned:
  - table HTML class attribute will not be added
  - **Download** text will be displayed instead of the link itself
 
-##Contributors
-[Afshin Mehrabani](https://github.com/afshinm) (@afshinmeh)  
-[Sgissinger](https://github.com/sgissinger) 
+## Contributors
 
-##Contributing
+- [Afshin Mehrabani](https://github.com/afshinm) (@afshinmeh)
+- [Sgissinger](https://github.com/sgissinger)
+
+Charlie Calvert:
+
+- [Charlie on Elvenware](http://www.elvenware.com)
+- [Charlie on GitHub](http://github.com/charliecalvert)
+
+## Contributing
 
 This is a open-source project. Fork the project, complete the code and send pull request.
 

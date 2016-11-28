@@ -1,0 +1,25 @@
+{
+  "name": "elven-json-to-html",
+  "version": "0.0.2",
+  "description": "Charlie's fork of JsonToHtml",
+  "main": "json-to-table.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charliecalvert/Json-to-HTML-Table.git"
+  },
+  "keywords": [
+    "JSON",
+    "HTML",
+    "convert",
+    "elvenware"
+  ],
+  "author": "Charlie Calvert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charliecalvert/Json-to-HTML-Table/issues"
+  },
+  "homepage": "https://github.com/charliecalvert/Json-to-HTML-Table#readme"
+}

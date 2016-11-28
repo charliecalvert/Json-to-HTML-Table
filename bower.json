@@ -1,0 +1,23 @@
+{
+  "name": "elven-json-to-html",
+  "description": "Charlie's fork of JsonToHtml",
+  "main": "json-to-table.js",
+  "authors": [
+    "Charlie Calvert"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "JSON",
+    "HTML",
+    "convert",
+    "elvenware"
+  ],
+  "homepage": "https://github.com/charliecalvert/Json-to-HTML-Table",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
