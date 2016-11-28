@@ -1,6 +1,6 @@
 {
-  "name": "elven-json-to-html",
-  "version": "0.0.2",
+  "name": "elf-json-to-table",
+  "version": "0.0.3",
   "description": "Charlie's fork of JsonToHtml",
   "main": "json-to-table.js",
   "scripts": {

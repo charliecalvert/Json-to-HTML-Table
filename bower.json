@@ -1,5 +1,5 @@
 {
-  "name": "elven-json-to-html",
+  "name": "elf-json-to-table",
   "description": "Charlie's fork of JsonToHtml",
   "main": "json-to-table.js",
   "authors": [
